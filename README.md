@@ -1,16 +1,18 @@
-## Hi there 👋
+# <h1><img src="https://raw.githubusercontent.com/Kunal-Kokate/icons/refs/heads/main/wave.gif?token=GHSAT0AAAAAACZG5NOKEIJ4HTJ45QRX22UCZYUSASQ" width="30"/> About Me:</h1>
+I'm Kunal Kokate, a recent Rutgers graduate from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> <b>Oakland, New Jersey</b>. I’m passionate about data, cybersecurity, and leveraging technology to solve complex problems. </p>
 
-<!--
-**Kunal-Kokate/Kunal-Kokate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/> What I am currently doing:<br>• Cybersecurity Lessons: Engaging in TryHackMe lessons to sharpen my cybersecurity skills and deepen my knowledge in the field.<br>• Building a Home Lab: Developing my own homelab to experiment with and simulate real-world cybersecurity scenarios.<br>• Coding Projects: Writing Python scripts for automation and problem-solving, continuously improving my efficiency and scalability.<br><br> Hobbies<br>• I love spending time outdoors, especially hiking and stand-up paddle boarding.<br>• I'm passionate about traveling and exploring new places.<br>• I enjoy reading nonfiction books and currently reading The 4-Hour Workweek.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/00kunalk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalkokate) 
+
+# 💻 Skills:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kunal-kokate&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-kokate&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=kunal-kokate&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
