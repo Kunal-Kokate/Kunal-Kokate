@@ -18,11 +18,11 @@
 
 <font size="6"><b>Cloud Services & Operating Systems:   </b></font> ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-3670A0?style=flat&logo=python&logoColor=ffdd54) ![macOS](https://img.shields.io/badge/macOS-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
-<font size="6"><b>Programming & Web Development:   </b></font> `Python`, `R`, `SQL`, `Java`, `HTML5`, `CSS3`, `JavaScript`, `XML` <br>
-<font size="6"><b>Data Analysis & Visualization:   </b></font> `Numpy`, `Pandas`, `Tableau`, `Power BI`, `Microsoft Excel`, `Jupyter Notebook`, `MySQL` <br>
-<font size="6"><b>Project Management & Collaboration:   </b></font> `Microsoft Office`, `Slack`, `Jira`, `Git`, `Github` <br>
-<font size="6"><b>Design Tools:   </b></font> `Figma`, `Canva`, `Adobe Photoshop` <br>
-<font size="6"><b>Cloud Services & Operating Systems:   </b></font> `Microsoft Azure`, `Amazon Web Services (AWS)`, `Windows`, `macOS`, `Linux` <br>
+<font size="6"><b>Programming & Web Development:   </b></font> `Python`, `R`, `SQL`, `Java`, `HTML5`, `CSS3`, `JavaScript`, `XML` <br><br>
+<font size="6"><b>Data Analysis & Visualization:   </b></font> `Numpy`, `Pandas`, `Tableau`, `Power BI`, `Microsoft Excel`, `Jupyter Notebook`, `MySQL` <br><br>
+<font size="6"><b>Project Management & Collaboration:   </b></font> `Microsoft Office`, `Slack`, `Jira`, `Git`, `Github` <br><br>
+<font size="6"><b>Design Tools:   </b></font> `Figma`, `Canva`, `Adobe Photoshop` <br><br>
+<font size="6"><b>Cloud Services & Operating Systems:   </b></font> `Microsoft Azure`, `Amazon Web Services (AWS)`, `Windows`, `macOS`, `Linux` <br><br>
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=kunal-kokate&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="pointer-events: none;" />
