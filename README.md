@@ -19,9 +19,7 @@
 
 <font size="5"><b>Design Tools:   </b></font> ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
-<font size="5"><b>Cloud Services & Operating Systems:   </b></font> ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-
- ![Windows](https://img.shields.io/badge/Windows-3670A0?style=flat&logo=python&logoColor=ffdd54) ![macOS](https://img.shields.io/badge/macOS-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+<font size="5"><b>Cloud Services & Operating Systems:   </b></font> ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-3670A0?style=flat&logo=python&logoColor=ffdd54) ![macOS](https://img.shields.io/badge/macOS-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
