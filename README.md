@@ -17,7 +17,7 @@
 
 <font size="5"><b>Project Management & Collaboration:   </b></font> ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
-<font size="5"><b>Design Tools:   </b></font> ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+<font size="5"><b>Design Tools:   </b></font> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 
 <font size="5"><b>Cloud Services & Operating Systems:   </b></font> ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-3670A0?style=flat&logo=python&logoColor=ffdd54) ![macOS](https://img.shields.io/badge/macOS-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
@@ -37,7 +37,8 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 
