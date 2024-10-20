@@ -9,8 +9,7 @@
 
 # 💻 Skills:
 <b>Tools & Technologies: </b> ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" width="22"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" unselectable="on"/>
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
