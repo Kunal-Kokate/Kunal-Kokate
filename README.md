@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="pointer-events: none;" /> <img src="https://visitcount.itsvg.in/api?id=kunal-kokate&icon=0&color=12" style="pointer-events: none;" />
+<a href="https://linkedin.com/in/kunalkokate" style="pointer-events: none;"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="pointer-events: none;" /></a> 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalkokate) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/00kunalk) 
 
 # 💻 Skills:
