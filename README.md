@@ -11,8 +11,10 @@
 <font size="5"><b>Tools & Technologies:   </b></font> ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" unselectable="on"/>
 
-<font size="5"><b>Tools & Technologies:   </b></font>
-<font size="5"><b>Tools & Technologies:   </b></font>
+<font size="5"><b>Tools & Technologies:   </b></font> ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+
+<font size="5"><b>Tools & Technologies:   </b></font> ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+
 <font size="5"><b>Operating Systems:   </b></font> ![Windows](https://img.shields.io/badge/Windows-3670A0?style=flat&logo=python&logoColor=ffdd54) ![macOS](https://img.shields.io/badge/macOS-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
 
