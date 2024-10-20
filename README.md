@@ -1,3 +1,7 @@
+<script>img {
+  pointer-events: none;
+  user-select: none;
+}</script>
 <h1><img src="" width="30"/> About Me:</h1>
 <p>I'm Kunal Kokate, a recent Rutgers graduate from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/><b>Oakland, New Jersey</b>. I’m passionate about data, cybersecurity, and leveraging technology to solve complex problems. </p>
 
