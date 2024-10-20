@@ -39,6 +39,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kunal-kokate&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="pointer-events: none;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-kokate&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="pointer-events: none;" />
 <img src="https://visitcount.itsvg.in/api?id=kunal-kokate&icon=0&color=12" style="pointer-events: none;" />
+![Visitor Count](https://visitcount.itsvg.in/api?id=kunal-kokate&icon=0&color=12)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
