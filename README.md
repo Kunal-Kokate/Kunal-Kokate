@@ -1,7 +1,3 @@
-<script>img {
-  pointer-events: none;
-  user-select: none;
-}</script>
 <h1><img src="" width="30"/> About Me:</h1>
 <p>I'm Kunal Kokate, a recent Rutgers graduate from <img src="https://cdn-icons-png.flaticon.com/512/197/197484.png" width="13"/><b>Oakland, New Jersey</b>. I’m passionate about data, cybersecurity, and leveraging technology to solve complex problems. </p>
 
@@ -39,6 +35,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kunal-kokate&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="pointer-events: none;" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-kokate&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" style="pointer-events: none;" />
 ![Visitor Count](https://visitcount.itsvg.in/api?id=kunal-kokate&icon=0&color=12)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
