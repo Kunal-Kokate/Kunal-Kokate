@@ -18,8 +18,11 @@
 
 <font size="6"><b>Cloud Services & Operating Systems:   </b></font> ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-3670A0?style=flat&logo=python&logoColor=ffdd54) ![macOS](https://img.shields.io/badge/macOS-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![XML](https://img.shields.io/badge/XML-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+<font size="6"><b>Programming & Web Development:   </b></font> `Python`
+<font size="6"><b>Data Analysis & Visualization:   </b></font>
+<font size="6"><b>Project Management & Collaboration:   </b></font>
+<font size="6"><b>Design Tools:   </b></font>
+<font size="6"><b>Cloud Services & Operating Systems:   </b></font>
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=kunal-kokate&theme=dark&hide_border=false&include_all_commits=true&count_private=false" style="pointer-events: none;" />
