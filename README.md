@@ -3,11 +3,11 @@
 
 <p>Currently, I’m focused on building my skillset in data analysis, process optimization, and project coordination. I’m excited to apply my expertise in SQL, Python, Tableau, and Excel to analyze data, drive efficiency, and contribute to team success.</p>
 
-<img src="https://github.com/Kunal-Kokate/icons/blob/main/suitcase.png?raw=true" width="22"/> What I am currently doing:<br>• Data Projects: Developing scripts in Python and SQL to automate tasks and solve real-world problems.<br>• Tech Skills: Learning and experimenting with web development (HTML, CSS, JavaScript), cloud services (AWS, Azure), and advanced data visualization tools (Tableau, Power BI). <br>• Project Coordination: Using tools like Jira and Slack to manage projects and collaborate with teams effectively.<br><br><img src="https://github.com/Kunal-Kokate/icons/blob/main/puzzle.png?raw=true" width="22"/> Hobbies<br>• I love spending time outdoors, especially hiking and stand-up paddle boarding.<br>• I'm passionate about traveling and exploring new places.<br>• I enjoy reading nonfiction books and currently reading The Psychology of Money by Morgan Housel.
+<img src="https://github.com/Kunal-Kokate/icons/blob/main/suitcase.png?raw=true" width="22"/> <strong>What I am currently doing:</strong><br>• Data Projects: Developing scripts in Python and SQL to automate tasks and solve real-world problems.<br>• Tech Skills: Learning and experimenting with web development (HTML, CSS, JavaScript), cloud services (AWS, Azure), and advanced data visualization tools (Tableau, Power BI). <br>• Project Coordination: Using tools like Jira and Slack to manage projects and collaborate with teams effectively.<br><br><img src="https://github.com/Kunal-Kokate/icons/blob/main/puzzle.png?raw=true" width="22"/> <strong>Hobbies</strong><br>• I love spending time outdoors, especially hiking and stand-up paddle boarding.<br>• I'm passionate about traveling and exploring new places.<br>• I enjoy reading nonfiction books and currently reading The Psychology of Money by Morgan Housel.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalkokate) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/00kunalk) 
+## 🌐 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalkokate)  
 
 # 💻 Skills:
 <font size="6"><b>Programming & Web Development:   </b></font> `Python`, `R`, `SQL`, `Java`, `HTML5`, `CSS3`, `JavaScript`, `XML` <br><br>
